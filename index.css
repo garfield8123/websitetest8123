@@ -1,0 +1,32 @@
+body{
+      background-color: #A4A5A6; 
+    }
+    h1, h2, h3, h4, h5, h6, p {
+     text-align:center; 
+    }
+    a{
+      color: black;
+    }
+    a:hover{
+      color: yellow;
+    }
+    img {
+     width: 50%;
+     height: 50%;
+     opacity: 0.5;
+    }
+    .visible{
+      visibility: visible;
+    }
+    .invisible{
+      visibility: hidden; 
+    }
+    #inline{
+      display:inline; 
+    }
+  #None{
+      display:none;   
+    }
+    #block{
+display:block;
+    }
